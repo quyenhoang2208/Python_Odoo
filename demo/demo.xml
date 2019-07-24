@@ -1,0 +1,14 @@
+<odoo>
+    <record id="course_0" model="academy.course">
+        <field name="name">Course 0</field>
+        <field name="description">This is a course 0</field>
+    </record>
+    <record id="course_1" model="academy.course">
+        <field name="name">Course 1</field>
+        <field name="description">This is a course 1</field>
+    </record>
+    <record id="course_2" model="academy.course">
+        <field name="name">Course 2</field>
+        <field name="description">This is a course 2</field>
+    </record>
+</odoo>
